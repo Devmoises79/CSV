@@ -17,4 +17,4 @@ Este projeto simples demonstra como criar e escrever dados em um arquivo `.csv` 
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seuusuario/nome-do-repositorio.git
+   https://github.com/Devmoises79/CSV
