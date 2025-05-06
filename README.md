@@ -18,3 +18,6 @@ Este projeto simples demonstra como criar e escrever dados em um arquivo `.csv` 
 1. Clone este repositório:
    ```bash
    https://github.com/Devmoises79/CSV
+   ```
+
+Autor 👨🏾‍💻: [@Devmoises79]
